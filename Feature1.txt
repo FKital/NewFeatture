@@ -2,4 +2,4 @@ Neues Feature
 
 Nun commit 2
 
-conflict 2
+conflict 1
